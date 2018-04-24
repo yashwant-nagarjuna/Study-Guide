@@ -16,14 +16,15 @@ This page was initially created from [reddit](https://www.reddit.com/r/MachineLe
 * Cracking the Coding Interview
 * Intro to Algorithms Cormen
 * Deep Learning Book by Ian Goodfellow (Partially read)
-* Michael Nielsen book
+* [Michael Nielsen book](http://neuralnetworksanddeeplearning.com/)
 
 ## MOOC's Prep
-* CS-229 Stanford
-* CS-231n Stanford (Almost done)
-* MIT OpenCourseWare Linear Algebra
+* [CS-229 Stanford](https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599)
+* [CS-231n Stanford](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) (Almost done)
+* [MIT OpenCourseWare Linear Algebra](https://www.youtube.com/watch?v=ZK3O402wf1c&list=PLE7DDD91010BC51F8)
 * [John Hopkins's Biostatistics Bootcamp](https://www.coursera.org/learn/biostatistics)
 * [Stanford DataBases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)
+* [CMU Deep learning](https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA)
 
 ## Data Scientist Software Stack
 * Python or R
