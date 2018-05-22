@@ -24,11 +24,11 @@
 
 ### References
 
-* (HacherRank)[https://www.hackerearth.com/blog/machine-learning/beginners-guide-regression-analysis-plot-interpretations/]
-* (Outliers detect)[http://songhuiming.github.io/pages/2016/11/27/linear-regression-in-python-outliers-leverage-detect/]
-* (Understanding diagnostic plots Univ of Virginia)[http://data.library.virginia.edu/diagnostic-plots/]
-* (Blog Article explaining non graphical testing)[http://www.statisticssolutions.com/assumptions-of-linear-regression/]
-* (Blog Article explaining non graphical testing)[http://www.stat.columbia.edu/~martin/W2024/R7.pdf]
-* (Stats Stack Exchange on Checking if regression model is good)[https://stats.stackexchange.com/questions/51046/how-to-check-if-my-regression-model-is-good]
-* (R2 estimator for regression)[http://statisticsbyjim.com/regression/interpret-r-squared-regression/]
+* [HacherRank](https://www.hackerearth.com/blog/machine-learning/beginners-guide-regression-analysis-plot-interpretations/)
+* [Outliers detect](http://songhuiming.github.io/pages/2016/11/27/linear-regression-in-python-outliers-leverage-detect/)
+* [Understanding diagnostic plots Univ of Virginia](http://data.library.virginia.edu/diagnostic-plots/)
+* [Blog Article explaining non graphical testing](http://www.statisticssolutions.com/assumptions-of-linear-regression/)
+* [Blog Article explaining non graphical testing](http://www.stat.columbia.edu/~martin/W2024/R7.pdf)
+* [Stats Stack Exchange on Checking if regression model is good](https://stats.stackexchange.com/questions/51046/how-to-check-if-my-regression-model-is-good)
+* [R2 estimator for regression](http://statisticsbyjim.com/regression/interpret-r-squared-regression/)
 
